@@ -1,0 +1,64 @@
+
+Passageiros
+[
+    { "username": "eusebio", "email": "eusebio@passenger.pt", "password": "pass123_eusebio" },
+    { "username": "rui.costa", "email": "rui.costa@passenger.pt", "password": "pass123_rui.costa" },
+    { "username": "paulobento", "email": "paulobento@passenger.pt", "password": "pass123_paulobento" },
+    { "username": "di.maria", "email": "di.maria@passenger.pt", "password": "pass123_di.maria" },
+    { "username": "luisao", "email": "luisao@passenger.pt", "password": "pass123_luisao" },
+    { "username": "jardel", "email": "jardel@passenger.pt", "password": "pass123_jardel" },
+    { "username": "javi.martinez", "email": "javi.martinez@passenger.pt", "password": "pass123_javi.martinez" },
+    { "username": "cardozo", "email": "cardozo@passenger.pt", "password": "pass123_cardozo" },
+    { "username": "nuno.gomes", "email": "nuno.gomes@passenger.pt", "password": "pass123_nuno.gomes" },
+    { "username": "antonio.simon", "email": "antonio.simon@passenger.pt", "password": "pass123_antonio.simon" },
+
+    { "username": "maria.silva", "email": "maria.silva@passenger.pt", "password": "pass123_maria.silva" },
+    { "username": "ana.santos", "email": "ana.santos@passenger.pt", "password": "pass123_ana.santos" },
+    { "username": "carla.pereira", "email": "carla.pereira@passenger.pt", "password": "pass123_carla.pereira" },
+    { "username": "joana.martins", "email": "joana.martins@passenger.pt", "password": "pass123_joana.martins" },
+    { "username": "raquel.rodrigues", "email": "raquel.rodrigues@passenger.pt", "password": "pass123_raquel.rodrigues" },
+    { "username": "patricia.gomes", "email": "patricia.gomes@passenger.pt", "password": "pass123_patricia.gomes" },
+    { "username": "laura.oliveira", "email": "laura.oliveira@passenger.pt", "password": "pass123_laura.oliveira" },
+    { "username": "sandra.mendes", "email": "sandra.mendes@passenger.pt", "password": "pass123_sandra.mendes" },
+    { "username": "liliana.rocha", "email": "liliana.rocha@passenger.pt", "password": "pass123_liliana.rocha" },
+    { "username": "patricia.costa", "email": "patricia.costa@passenger.pt", "password": "pass123_patricia.costa" },
+
+    { "username": "miguel.vitor", "email": "miguel.vitor@passenger.pt", "password": "pass123_miguel.vitor" },
+    { "username": "jorge.jesus", "email": "jorge.jesus@passenger.pt", "password": "pass123_jorge.jesus" },
+    { "username": "pedro.mendes", "email": "pedro.mendes@passenger.pt", "password": "pass123_pedro.mendes" },
+    { "username": "luizao", "email": "luizao@passenger.pt", "password": "pass123_luizao" },
+    { "username": "jose.mourinho", "email": "jose.mourinho@passenger.pt", "password": "pass123_jose.mourinho" },
+    { "username": "jose.benfica", "email": "jose.benfica@passenger.pt", "password": "pass123_jose.benfica" },
+    { "username": "joao.felix", "email": "joao.felix@passenger.pt", "password": "pass123_joao.felix" },
+    { "username": "manuel.martins", "email": "manuel.martins@passenger.pt", "password": "pass123_manuell.martins" },
+    { "username": "pedro.pereira", "email": "pedro.pereira@passenger.pt", "password": "pass123_pedro.pereira" },
+    { "username": "joao.mario", "email": "joao.mario@passenger.pt", "password": "pass123_joao.mario" },
+
+    { "username": "ines.martins", "email": "ines.martins@passenger.pt", "password": "pass123_ines.martins" },
+    { "username": "marta.mendes", "email": "marta.mendes@passenger.pt", "password": "pass123_marta.mendes" },
+    { "username": "sandra.silva", "email": "sandra.silva@passenger.pt", "password": "pass123_sandra.silva" },
+    { "username": "ana.magalhaes", "email": "ana.magalhaes@passenger.pt", "password": "pass123_ana.magalhaes" },
+    { "username": "carla.pereira", "email": "carla.pereira@passenger.pt", "password": "pass123_carla.pereira" },
+    { "username": "beatriz.rodrigues", "email": "beatriz.rodrigues@passenger.pt", "password": "pass123_beatriz.rodrigues" },
+    { "username": "larissa.santos", "email": "larissa.santos@passenger.pt", "password": "pass123_larissa.santos" },
+    { "username": "daniela.martins", "email": "daniela.martins@passenger.pt", "password": "pass123_daniela.martins" },
+    { "username": "catarina.mendes", "email": "catarina.mendes@passenger.pt", "password": "pass123_catarina.mendes" },
+    { "username": "maria.oliveira", "email": "maria.oliveira@passenger.pt", "password": "pass123_maria.oliveira" },
+    { "username": "elisa.magalhaes", "email": "elisa.magalhaes@passenger.pt", "password": "pass123_elisa.magalhaes" },
+
+    { "username": "fernando.martins", "email": "fernando.martins@passenger.pt", "password": "pass123_fernando.martins" },
+    { "username": "rafael.santos", "email": "rafael.santos@passenger.pt", "password": "pass123_rafael.santos" },
+    { "username": "pedro.felix", "email": "pedro.felix@passenger.pt", "password": "pass123_pedro.felix" },
+    { "username": "andre.mendes", "email": "andre.mendes@passenger.pt", "password": "pass123_andre.mendes" },
+    { "username": "mario.rodrigues", "email": "mario.rodrigues@passenger.pt", "password": "pass123_mario.rodrigues" },
+    { "username": "miguel.oliveira", "email": "miguel.oliveira@passenger.pt", "password": "pass123_miguel.oliveira" },
+    { "username": "sergio.pinto", "email": "sergio.pinto@passenger.pt", "password": "pass123_sergio.pinto" },
+    { "username": "ricardo.magalhaes", "email": "ricardo.magalhaes@passenger.pt", "password": "pass123_ricardo.magalhaes" },
+    { "username": "victor.rocha", "email": "victor.rocha@passenger.pt", "password": "pass123_victor.rocha" },
+    { "username": "mariana.silva", "email": "mariana.silva@passenger.pt", "password": "pass123_mariana.silva" }
+]
+
+
+Criar criar crew_members
+
+
